@@ -14,7 +14,7 @@
 function Vehicle(brand, model, year, mileage) {
   //  Записуєм в this.brand значення аргументу brand, в this.model значення аргументу model і так далі зі всіми аргументами
 }
-
+// console.log(brand);
 // Рядковому представленю Vehicle призначаємо функцію яка повертає рядок: <brand> <model> <year>
 
 // valueOf - це метод, який використовується JavaScript для конвертації об'єкта в примітивне значення.
